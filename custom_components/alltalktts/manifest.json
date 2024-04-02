@@ -1,0 +1,9 @@
+{
+  "domain": "alltalktts",
+  "name": "AllTalk TTS (Remote)",
+  "version": "1.0.0",
+  "documentation": "https://github.com/ser/AllTalkTTS/blob/master/README.md",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@ser"]
+}
