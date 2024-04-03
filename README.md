@@ -35,5 +35,5 @@ I am open to PRs.
 Author: Dr Serge Victor
 
 This software is loosely based on concept provided by Markus Pöschl
-in his custom [PicoTTS Remote](https://github.com/Poeschl/Remote-PicoTTS)
+in his [PicoTTS Remote](https://github.com/Poeschl/Remote-PicoTTS)
 custom component.
