@@ -4,6 +4,8 @@
   "version": "1.0.0",
   "documentation": "https://github.com/ser/AllTalkTTS/blob/master/README.md",
   "requirements": [],
+  "iot_class": "assumed_state",
   "dependencies": [],
-  "codeowners": ["@ser"]
+  "codeowners": ["@ser"],
+  "integration_type": "service"
 }
