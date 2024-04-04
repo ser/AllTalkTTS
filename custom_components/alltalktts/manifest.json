@@ -1,11 +1,13 @@
 {
   "domain": "alltalktts",
   "name": "AllTalk TTS (Remote)",
+  "after_dependencies": ["api", "http", "media_source"],
   "codeowners": ["@ser"],
   "dependencies": [],
   "documentation": "https://github.com/ser/AllTalkTTS/blob/master/README.md",
   "integration_type": "service",
   "iot_class": "assumed_state",
+  "issue_tracker": "https://github.com/ser/AllTalkTTS/issues",
   "requirements": [],
   "version": "1.0.0"
 }
